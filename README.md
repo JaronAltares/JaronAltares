@@ -38,7 +38,7 @@
 ---
 
 ### 📫 How to Reach Me
-- Email: jaronaltares@gmail.com  
+- Email: jaronaltares@gmail.com
 - Facebook: [Jaron Altares](https://web.facebook.com/jrn.altares)
 
 ---
