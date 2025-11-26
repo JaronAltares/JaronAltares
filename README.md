@@ -4,6 +4,10 @@
 - Bachelor of Science in Information Technology  
 - New Era University  
 - 2024 - Present
+##
+- Science, Technology, Engineering, and Mathematics (STEM)
+- AMA Computer College
+- 2022 - 2024
 
 ## 🧾 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/97afcf3fce8d4b33968b546e5dfd34c4)
