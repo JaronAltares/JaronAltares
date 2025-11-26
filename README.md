@@ -34,7 +34,7 @@
 ## 🏫 Trainings and Seminars Attended
 - Computer Management Services Seminar — March 2023
 - Networking and Basic Computer Programming — March 2023
-- MA Education System Research Congress — June 2023
+- AMA Education System Research Congress — June 2023
 
 ---
 
