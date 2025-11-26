@@ -1,4 +1,4 @@
-# 👋 𝐇𝐢, 𝐈'𝐦 𝐉𝐚𝐫𝐨𝐧 𝐀. 𝐀𝐥𝐭𝐚𝐫𝐞𝐬 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# 𝐇𝐢, 𝐈'𝐦 𝐉𝐚𝐫𝐨𝐧 𝐀. 𝐀𝐥𝐭𝐚𝐫𝐞𝐬 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**  
