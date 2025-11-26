@@ -31,6 +31,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🏫 Trainings and Seminars Attended
+- Computer Management Services Seminar — March 2023
+- Networking and Basic Computer Programming — March 2023
+- MA Education System Research Congress — June 2023
+
 ---
 
 ### 📫 How to Reach Me
