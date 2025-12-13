@@ -11,6 +11,8 @@
 ## 🧾 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/97afcf3fce8d4b33968b546e5dfd34c4)
 - [Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0AB5B5241C9EB9105F137B2A9D6413BBC524D208913B639F605CE7D98516D5E2)
+- [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69F65902A54747F1EDD0153A7E78740305F5E1840FAFC135513C18AA246EE2C5)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC02C902C9E5460B2358251EDE963A14E8BD0B59F4CB14FA28373F3310FCDBD0)
   
 ## 💻 Skillsets
 **Programming Languages:**  
