@@ -42,10 +42,10 @@ I am a 2nd Year BS Information Technology student from New Era University who is
 - AMA Education System Research Congress — June 2023
 
 ---
-- LinkedIn: [Jaron Altares](www.linkedin.com/in/jaron-altares052003)
+
 ### 📫 How to Reach Me
 - Email: jaronaltares@gmail.com
-- LinkedIn: [Jaron Altares](www.linkedin.com/in/jaron-altares052003)
+- LinkedIn: [Jaron Altares](https://www.linkedin.com/in/jaron-altares052003)
 ---
 
 ⭐️ _Thanks for visiting my GitHub profile! Feel free to explore my projects and connect!_
