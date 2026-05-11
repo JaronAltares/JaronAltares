@@ -46,7 +46,7 @@ I am a 2nd Year BS Information Technology student from New Era University who is
 ### 📫 How to Reach Me
 - Email: jaronaltares@gmail.com
 - Facebook: [Jaron Altares](https://web.facebook.com/jrn.altares)
-
+- LinkedIn: (www.linkedin.com/in/jaron-altares-a8312a382)
 ---
 
 ⭐️ _Thanks for visiting my GitHub profile! Feel free to explore my projects and connect!_
