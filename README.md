@@ -1,5 +1,8 @@
 # 𝐇𝐢, 𝐈'𝐦 𝐉𝐚𝐫𝐨𝐧 𝐀. 𝐀𝐥𝐭𝐚𝐫𝐞𝐬 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+## About Me
+I am a 2nd Year BS Information Technology student from New Era University who is passionate about exploring the world of technology. I find web and app development exciting because it gives me the opportunity to turn ideas into useful and interactive applications that people can enjoy and use every day. I enjoy learning new technologies, improving my coding skills, and challenging myself to create better digital experiences. By finishing this program, I hope to gain more knowledge and acquire valuable skill sets that I can use in the future to build innovative projects, grow as an IT professional, and contribute to the tech industry.
+
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**  
   New Era University  
@@ -13,6 +16,7 @@
 - [Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0AB5B5241C9EB9105F137B2A9D6413BBC524D208913B639F605CE7D98516D5E2)
 - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69F65902A54747F1EDD0153A7E78740305F5E1840FAFC135513C18AA246EE2C5)
 - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC02C902C9E5460B2358251EDE963A14E8BD0B59F4CB14FA28373F3310FCDBD0)
+- [NoSQL and DBaaS 101]https://courses.cognitiveclass.ai/certificates/92d9ebc5b7a14e53a627744be1de2b43
   
 ## 💻 Skillsets
 **Programming Languages:**  
